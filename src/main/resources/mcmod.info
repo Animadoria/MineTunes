@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "minetunestwelve",
+    "name": "MineTunesTwelve",
+    "description": "MineTunesTwelve is a port to 1.12 of the mod MineTunes, a Minecraft music player. Check the Keybinds for it in the Keybinds menu.",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "logoFile": "",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Animadoria", "Vazkii"],
+    "credits": "JLayer, mp3agic and Vazkii",
+    "parent": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
